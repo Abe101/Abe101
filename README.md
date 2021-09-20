@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abe101
 - 👀 I’m interested in JavaScript related stuff
 - 🌱 I’m currently learning GoLang and Node.js
-- 💞️ I’m looking to collaborate on anything I find interesting
+- 💞️ I’m looking to collaborate on anything I find interesting and can help me grow
 - 📫 How to reach me -> email: cyrusrohail101@gmail.com, facebook: cyrus.rohail101
 
 <!---
