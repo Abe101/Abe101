@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abe101
+- 👋 Hi, I’m Cyrus Rohial also tagged as @Abe101
 - 👀 I’m interested in JavaScript related stuff
 - 🌱 I’m currently learning Rust 🤯
 - 💞️ I’m looking to collaborate on anything I find interesting
